@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1615292651 source:c:\users\caomd\documents\semestre_saltillo2\programacionc++\interfazpymes\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Producto.h"
+	"Mercado.h"
+	<string>
+
+1615286320 c:\users\caomd\documents\semestre_saltillo2\programacionc++\interfazpymes\producto.h
+	<string>
+	"Cliente.h"
+
+1615251681 c:\users\caomd\documents\semestre_saltillo2\programacionc++\interfazpymes\adicional.h
+	<string>
+	"Cliente.h"
+	"Producto.h"
+
+1615288599 c:\users\caomd\documents\semestre_saltillo2\programacionc++\interfazpymes\cliente.h
+	<string>
+	"Producto.h"
+	"Mercado.h"
+
+1615272272 c:\users\caomd\documents\semestre_saltillo2\programacionc++\interfazpymes\mercado.h
+	<string>
+
